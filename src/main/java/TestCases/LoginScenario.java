@@ -15,6 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.time.Duration;
 import java.util.List;
@@ -34,7 +35,7 @@ public class LoginScenario implements ITestScenario {
     }
 
     @Override
-    public void executeScenario(WebDriver driver, ExtentTest extentTest, Map<String, String> data) {
+    public void executeScenario(WebDriver driver, ExtentTest extentTest, Map<String, String> data) throws InvocationTargetException, NoSuchMethodException, IllegalAccessException {
         this.extentTest = extentTest;
 
         log.info("Executing scenario: " + data.get("CaseName"));
@@ -42,18 +43,17 @@ public class LoginScenario implements ITestScenario {
             Method method = this.getClass().getDeclaredMethod(data.get("CaseName"), WebDriver.class, Map.class);
             method.invoke(this, driver, data);
         } catch (Exception e) {
-            e.printStackTrace();
-            extentTest.fail("Scenario execution failed: " + data.get("CaseName"));
+            extentTest.fail("Scenario execution failed: " + data.get("CaseName") + " with exception: " + e.getMessage());
+            extentTest.fail("Screenshot on failure: ", MediaEntityBuilder.createScreenCaptureFromBase64String(ScreenshotUtil.tekeScreenShot(driver)).build());
+            throw e;
         }
     }
 
     private void loginTest(WebDriver driver, Map<String, String> data) {
-
         log.info("test1  called");
         driver.get(System.getProperty("baseUrl"));
         log.info("Executing login test with data: " + data);
         extentTest.log(Status.INFO,"Hi  from loginTest1");
-
     }
 
 
@@ -95,7 +95,8 @@ public class LoginScenario implements ITestScenario {
         // Implement the second login test using the data
         log.info("Executing login test with data: " + data);
         extentTest.log(Status.INFO,"Hi  from loginTest3");
-        driver.get("https//www.google.ca");
+        driver.get(System.getProperty("baseUrl"));
+        System.out.println(driver.getCurrentUrl());
     }
 
 

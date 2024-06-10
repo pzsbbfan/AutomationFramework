@@ -1,0 +1,403 @@
+2024-06-09 22:22:28 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:22:31 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:22:31 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:22:31 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:22:31 INFO  LoginScenario:62 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:22:32 INFO  LoginScenario:77 - Page Header: 
+2024-06-09 22:22:32 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:23:22 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:23:46 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:23:47 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:23:47 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:23:48 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:23:57 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:24:25 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:24:27 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:24:30 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:24:48 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:24:54 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:24:54 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:24:55 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:25:04 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:25:12 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:25:30 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:25:57 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:26:12 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:26:32 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:27:44 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:28:20 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:28:47 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:31:09 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:31:10 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:31:10 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:31:11 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:32:05 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:32:06 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:32:06 INFO  LoginScenario:62 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:32:08 INFO  LoginScenario:77 - Page Header: 
+2024-06-09 22:32:08 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:33:27 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:33:37 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:33:38 INFO  LoginScenario:62 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:33:50 INFO  LoginScenario:77 - Page Header: 
+2024-06-09 22:33:57 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:33:58 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:35:53 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:35:55 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:35:55 INFO  LoginScenario:62 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:35:56 INFO  LoginScenario:77 - Page Header: 
+2024-06-09 22:35:56 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:35:56 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:35:57 INFO  LoginScenario:54 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:35:57 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:36:46 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:36:48 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:36:48 INFO  LoginScenario:62 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:36:49 INFO  LoginScenario:77 - Page Header: 
+2024-06-09 22:36:49 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:36:49 INFO  LoginScenario:52 - test1  called
+2024-06-09 22:36:50 INFO  LoginScenario:54 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:36:50 INFO  LoginScenario:40 - Executing scenario: loginTest3
+2024-06-09 22:36:50 INFO  LoginScenario:96 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:36:50 INFO  LoginScenario:32 - Executing scenario: loginToOracleEBS
+2024-06-09 22:36:51 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:39:19 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:39:26 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:39:29 INFO  LoginScenario:63 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:39:38 INFO  LoginScenario:78 - Page Header: 
+2024-06-09 22:40:06 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:40:07 INFO  LoginScenario:53 - test1  called
+2024-06-09 22:40:10 INFO  LoginScenario:55 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:40:31 INFO  LoginScenario:40 - Executing scenario: loginTest3
+2024-06-09 22:40:32 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:40:43 INFO  LoginScenario:32 - Executing scenario: loginToOracleEBS
+2024-06-09 22:40:45 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:43:03 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:43:05 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:43:05 INFO  LoginScenario:61 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:43:06 INFO  LoginScenario:76 - Page Header: 
+2024-06-09 22:43:06 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:43:06 INFO  LoginScenario:51 - test1  called
+2024-06-09 22:43:07 INFO  LoginScenario:53 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:43:07 INFO  LoginScenario:40 - Executing scenario: loginTest3
+2024-06-09 22:43:07 INFO  LoginScenario:95 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:43:07 INFO  LoginScenario:32 - Executing scenario: loginToOracleEBS
+2024-06-09 22:43:08 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:44:01 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:44:04 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:44:04 INFO  LoginScenario:63 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:44:05 INFO  LoginScenario:78 - Page Header: 
+2024-06-09 22:44:05 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:44:05 INFO  LoginScenario:53 - test1  called
+2024-06-09 22:44:06 INFO  LoginScenario:55 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:44:06 INFO  LoginScenario:40 - Executing scenario: loginTest3
+2024-06-09 22:44:06 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:44:06 INFO  LoginScenario:32 - Executing scenario: loginToOracleEBS
+2024-06-09 22:44:06 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:45:23 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:45:32 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:45:33 INFO  LoginScenario:63 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:45:38 INFO  LoginScenario:78 - Page Header: 
+2024-06-09 22:45:52 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:45:54 INFO  LoginScenario:53 - test1  called
+2024-06-09 22:45:59 INFO  LoginScenario:55 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:46:22 INFO  LoginScenario:40 - Executing scenario: loginTest3
+2024-06-09 22:46:24 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:46:36 INFO  LoginScenario:32 - Executing scenario: loginToOracleEBS
+2024-06-09 22:46:56 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:50:16 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:50:34 INFO  LoginScenario:40 - Executing scenario: loginTest2
+2024-06-09 22:50:34 INFO  LoginScenario:61 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:50:36 INFO  LoginScenario:76 - Page Header: 
+2024-06-09 22:50:53 INFO  LoginScenario:40 - Executing scenario: loginTest
+2024-06-09 22:50:53 INFO  LoginScenario:51 - test1  called
+2024-06-09 22:50:54 INFO  LoginScenario:53 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:50:55 INFO  LoginScenario:40 - Executing scenario: loginTest3
+2024-06-09 22:50:55 INFO  LoginScenario:95 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:50:55 INFO  LoginScenario:32 - Executing scenario: loginToOracleEBS
+2024-06-09 22:50:57 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:51:58 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:52:01 INFO  LoginScenario:41 - Executing scenario: loginTest2
+2024-06-09 22:52:01 INFO  LoginScenario:64 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:52:02 INFO  LoginScenario:79 - Page Header: 
+2024-06-09 22:52:02 INFO  LoginScenario:41 - Executing scenario: loginTest
+2024-06-09 22:52:02 INFO  LoginScenario:54 - test1  called
+2024-06-09 22:52:03 INFO  LoginScenario:56 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:52:03 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 22:52:03 INFO  LoginScenario:98 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:52:03 INFO  LoginScenario:33 - Executing scenario: loginToOracleEBS
+2024-06-09 22:52:03 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:54:31 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:54:38 INFO  LoginScenario:41 - Executing scenario: loginTest2
+2024-06-09 22:54:38 INFO  LoginScenario:64 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 22:54:40 INFO  LoginScenario:79 - Page Header: 
+2024-06-09 22:54:42 ERROR LoginScenario:46 - Scenario execution failed: loginTest2
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at TestCases.LoginScenario.executeScenario(LoginScenario.java:44) ~[classes/:?]
+	at SuiteRunner.Keyword.executeTest(Keyword.java:50) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at SuiteRunner.SuiteRunner.main(SuiteRunner.java:36) [classes/:?]
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\/\/\*\[\@id\=\"nav\-link\-accountList\"\]"}
+  (Session info: chrome=123.0.6312.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [21a7e40c874f20c83aa161c189af7cc5, findElement {using=id, value=//*[@id="nav-link-accountList"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\16474\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59559}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59559/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 21a7e40c874f20c83aa161c189af7cc5
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.21.0.jar:?]
+	at jdk.proxy2.$Proxy27.getText(Unknown Source) ~[?:?]
+	at TestCases.LoginScenario.loginTest2(LoginScenario.java:80) ~[classes/:?]
+	... 32 more
+2024-06-09 22:55:14 INFO  LoginScenario:41 - Executing scenario: loginTest
+2024-06-09 22:55:14 INFO  LoginScenario:54 - test1  called
+2024-06-09 22:55:17 INFO  LoginScenario:56 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 22:55:19 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 22:55:19 INFO  LoginScenario:98 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:55:21 ERROR LoginScenario:46 - Scenario execution failed: loginTest3
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at TestCases.LoginScenario.executeScenario(LoginScenario.java:44) ~[classes/:?]
+	at SuiteRunner.Keyword.executeTest(Keyword.java:50) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at SuiteRunner.SuiteRunner.main(SuiteRunner.java:36) [classes/:?]
+Caused by: org.openqa.selenium.InvalidArgumentException: invalid argument
+  (Session info: chrome=123.0.6312.106)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [21a7e40c874f20c83aa161c189af7cc5, get {url=https//www.google.ca}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\16474\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59559}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59559/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 21a7e40c874f20c83aa161c189af7cc5
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:300) ~[selenium-remote-driver-4.21.0.jar:?]
+	at TestCases.LoginScenario.loginTest3(LoginScenario.java:100) ~[classes/:?]
+	... 32 more
+2024-06-09 22:55:22 INFO  LoginScenario:33 - Executing scenario: loginToOracleEBS
+2024-06-09 22:55:23 ERROR LoginScenario:38 - Scenario execution failed: loginToOracleEBS
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at TestCases.OracleEBSScenario.executeScenario(OracleEBSScenario.java:36) ~[classes/:?]
+	at SuiteRunner.Keyword.executeTest(Keyword.java:50) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at SuiteRunner.SuiteRunner.main(SuiteRunner.java:36) [classes/:?]
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#username"}
+  (Session info: chrome=123.0.6312.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [21a7e40c874f20c83aa161c189af7cc5, findElement {using=id, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.106, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: C:\Users\16474\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59559}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59559/devtoo..., se:cdpVersion: 123.0.6312.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 21a7e40c874f20c83aa161c189af7cc5
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.21.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.21.0.jar:?]
+	at jdk.proxy2.$Proxy27.sendKeys(Unknown Source) ~[?:?]
+	at Pages.OracleEBSLoginPage.login(OracleEBSLoginPage.java:27) ~[classes/:?]
+	at TestCases.OracleEBSScenario.loginToOracleEBS(OracleEBSScenario.java:47) ~[classes/:?]
+	... 32 more
+2024-06-09 22:55:27 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:56:13 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:56:21 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:56:41 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:57:02 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:57:05 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 22:57:05 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 22:57:06 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 22:58:18 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 22:58:32 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 22:58:41 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:00:24 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:00:26 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:00:26 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:00:28 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 23:00:55 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:00:57 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:00:57 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:00:57 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 23:02:44 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:02:46 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:02:46 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:02:55 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 23:03:33 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:03:35 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:03:35 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:03:36 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 23:04:33 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:04:36 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:04:36 INFO  LoginScenario:97 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:04:37 INFO  LoginScenario:41 - Executing scenario: loginTest2
+2024-06-09 23:04:37 INFO  LoginScenario:63 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 23:04:38 INFO  LoginScenario:78 - Page Header: 
+2024-06-09 23:04:38 INFO  LoginScenario:41 - Executing scenario: loginTest1
+2024-06-09 23:04:38 INFO  LoginScenario:33 - Executing scenario: loginToOracleEBS
+2024-06-09 23:04:38 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 23:05:33 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:05:35 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:05:35 INFO  LoginScenario:95 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:05:35 INFO  LoginScenario:41 - Executing scenario: loginTest2
+2024-06-09 23:05:35 INFO  LoginScenario:61 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 23:05:36 INFO  LoginScenario:76 - Page Header: 
+2024-06-09 23:05:36 INFO  LoginScenario:41 - Executing scenario: loginTest1
+2024-06-09 23:05:36 INFO  LoginScenario:33 - Executing scenario: loginToOracleEBS
+2024-06-09 23:05:36 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 23:05:57 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:05:58 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:05:58 INFO  LoginScenario:95 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:05:59 INFO  LoginScenario:41 - Executing scenario: loginTest2
+2024-06-09 23:05:59 INFO  LoginScenario:61 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 23:06:00 INFO  LoginScenario:76 - Page Header: 
+2024-06-09 23:06:00 INFO  LoginScenario:41 - Executing scenario: loginTest
+2024-06-09 23:06:00 INFO  LoginScenario:52 - test1  called
+2024-06-09 23:06:00 INFO  LoginScenario:54 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 23:06:00 INFO  LoginScenario:33 - Executing scenario: loginToOracleEBS
+2024-06-09 23:06:01 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-09 23:08:47 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-09 23:08:49 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-09 23:08:49 INFO  LoginScenario:96 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-09 23:08:50 INFO  LoginScenario:41 - Executing scenario: loginTest2
+2024-06-09 23:08:50 INFO  LoginScenario:62 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-09 23:08:52 INFO  LoginScenario:77 - Page Header: 
+2024-06-09 23:08:52 INFO  LoginScenario:41 - Executing scenario: loginTest
+2024-06-09 23:08:52 INFO  LoginScenario:53 - test1  called
+2024-06-09 23:08:52 INFO  LoginScenario:55 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-09 23:08:52 INFO  LoginScenario:35 - Executing scenario: loginToOracleEBS
+2024-06-09 23:08:53 INFO  SuiteRunner:42 - Test suite execution completed
+2024-06-10 00:17:02 INFO  SuiteRunner:19 - Starting the test suite
+2024-06-10 00:17:08 INFO  LoginScenario:41 - Executing scenario: loginTest3
+2024-06-10 00:17:08 INFO  LoginScenario:96 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest3, Password=pwd}
+2024-06-10 00:17:09 INFO  LoginScenario:41 - Executing scenario: loginTest2
+2024-06-10 00:17:09 INFO  LoginScenario:62 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest2, Password=pwd}
+2024-06-10 00:17:10 INFO  LoginScenario:77 - Page Header: 
+2024-06-10 00:17:10 INFO  LoginScenario:41 - Executing scenario: loginTest
+2024-06-10 00:17:10 INFO  LoginScenario:53 - test1  called
+2024-06-10 00:17:10 INFO  LoginScenario:55 - Executing login test with data: {Username=user, TestScenario=Login, CaseName=loginTest, Password=pwd}
+2024-06-10 00:17:10 INFO  LoginScenario:35 - Executing scenario: loginToOracleEBS
+2024-06-10 00:17:21 INFO  SuiteRunner:42 - Test suite execution completed

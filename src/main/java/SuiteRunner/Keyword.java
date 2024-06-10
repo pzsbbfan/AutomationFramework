@@ -37,10 +37,11 @@ public class Keyword {
         this.config = SuiteRunner.config;
         this.driver = WebDriverManager.getDriver();
         this.testData = SuiteRunner.testData;
+        ExtentManager.getInstance();
     }
 
     @Test(dataProvider = "testDataProvider")
-    public void executeTest(Map<String, String> data) {
+    public void executeTest(Map<String, String> data) throws Exception {
         String testScenario = data.get("TestScenario");
         String testCaseName = data.get("CaseName");
         extentTest = ExtentManager.createTest(testCaseName, "Executing test case: " + testCaseName);
@@ -49,6 +50,8 @@ public class Keyword {
             scenarioInstance.executeScenario(driver,extentTest,data);
         } catch (Exception e) {
             e.printStackTrace();
+            extentTest.fail("Test case execution failed: " + testCaseName);
+            throw e;
         }
     }
 
@@ -56,6 +59,8 @@ public class Keyword {
     public void tearDown() {
         // Quit WebDriver
         WebDriverManager.quitDriver();
+        // Flush Extent Report
+        ExtentManager.flush();
     }
 
     private ITestScenario getScenarioInstance(String scenario) throws Exception {

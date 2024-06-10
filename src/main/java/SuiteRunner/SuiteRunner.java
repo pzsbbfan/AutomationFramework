@@ -16,6 +16,7 @@ public class SuiteRunner {
 
     public static void main(String[] args) {
 
+        log.info("Starting the test suite");
         //can implement Jenkins algorithm  here
 
 
